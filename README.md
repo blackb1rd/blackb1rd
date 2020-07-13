@@ -54,7 +54,7 @@ hello [hack](javascript:javascript:alert('xss'))
 
 ![Escape SRC - onload](onload="alert('ImageOnLoad'))
 
-[XSS](&#65534;(0&#00;)
+(&#65534;(0&#00;)
 
 
 <!--
