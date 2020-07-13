@@ -4,7 +4,7 @@
 
 More Details, see [LinkedIn](https://www.linkedin.com/in/prachya-saechua/) 
 
-hello [hack](:javascript:alert('xss'))
+hello [hack](javascript:javascript:alert('xss'))
 ```javascript
 > hello <a name="n"
 > href="javascript:alert('xss')">*you*</a>
