@@ -36,8 +36,7 @@ hello [hack](javascript:javascript:alert('xss'))
 [XSS](Javas%26%2399;ript:alert(1&#41;)
 
 
-[XSS](javascript:alert&#65534;(1&#41;)
-[XSS](javascript:alert&#65533;(1&#41;)
+[XSS](javascript:alert&#65534;)
 
 [XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
 [XSS](javascript:confirm(1)
