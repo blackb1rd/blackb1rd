@@ -36,7 +36,7 @@ hello [hack](javascript:javascript:alert('xss'))
 [XSS](Javas%26%2399;ript:alert(1&#41;)
 
 
-[XSS](javascript:alert&#65534;(0&#41;)
+[XSS](javascript:alert&#65535;(0&#41;)
 
 [XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
 [XSS](javascript:confirm(1)
@@ -54,7 +54,7 @@ hello [hack](javascript:javascript:alert('xss'))
 
 ![Escape SRC - onload](onload="alert('ImageOnLoad'))
 
-[XSS](&#65534;(0&#41;)
+[XSS](&#65535;(0&#41;)
 
 
 <!--
