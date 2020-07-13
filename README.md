@@ -50,7 +50,7 @@ hello [hack](javascript:javascript:alert('xss'))
 
 ![Escape SRC - onerror]("onerror="alert('ImageOnError'))
 
-![Escape SRC - onerror](javascript:onerror="alert('ImageOnError'))
+![Escape SRC - onerror](javascr:iptonerror="alert('ImageOnError'))
 
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
