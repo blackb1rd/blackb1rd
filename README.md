@@ -4,7 +4,9 @@
 
 More Details, see [LinkedIn](https://www.linkedin.com/in/prachya-saechua/) 
 
-hello [hack](http://javascript:alert('xss'))
+hello [hack](javascript:alert('xss'))
+> hello <a name="n"
+> href="javascript:alert('xss')">*you*</a>
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
