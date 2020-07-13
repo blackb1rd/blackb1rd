@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<script>alert(1)</script>
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
