@@ -51,7 +51,7 @@ hello [hack](javascript:javascript:alert('xss'))
 
 ![XSS'"`onerror=prompt(document.cookie)](javascript://%0d%0aprompt(1);com)\
 
-![Escape SRC - onerror]("onerror="alert('ImageOnError'))
+![Escape SRC - onerror](javascript:alert&#65534;(0&#41;)
 
 ![Escape SRC - onload](onload="alert('ImageOnLoad'))
 
