@@ -4,7 +4,7 @@
 
 More Details, see [LinkedIn](https://www.linkedin.com/in/prachya-saechua/) 
 
-[.](alert&#65534;(0&#00;)
+It is a GITHUB bug[.](&#65534;(0&#00;)
 
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
