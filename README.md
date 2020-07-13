@@ -9,6 +9,7 @@ hello [hack](javascript:javascript:alert('xss'))
 > hello <a name="n"
 > href="javascript:alert('xss')">*you*</a>
 ```
+%3Ca+href%3D%22%01java%03script%3Aconfirm%28document.domain%29%22%3EClick+to+execute%3Ca%3E%0D%0A
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
