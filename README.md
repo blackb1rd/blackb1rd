@@ -6,6 +6,8 @@ More Details, see [LinkedIn](https://www.linkedin.com/in/prachya-saechua/)
 
 No emoji because it is a GITHUB Feature [BUG](&#65534;(0&#00;)
 
+but emoji can be seen in raw version: [Raw](https://raw.githubusercontent.com/blackb1rd/blackb1rd/refs/heads/master/README.md)
+
 <!--
 **blackb1rd/blackb1rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
