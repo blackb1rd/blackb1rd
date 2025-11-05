@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter...
+- 🌱 I’m currently making a new thing
 
 More Details, see [LinkedIn](https://www.linkedin.com/in/prachya-saechua/) 
 
-No emoji because it is a GITHUB Feature [BUG](&#65534;(0&#00;)
+No emoji because it is a GITHUB Feature[BUG](&#65534;(0&#00;)
 
 but emoji can be seen in raw version: [Raw](https://raw.githubusercontent.com/blackb1rd/blackb1rd/refs/heads/master/README.md)
 
